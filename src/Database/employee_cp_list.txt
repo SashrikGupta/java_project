@@ -1,0 +1,9 @@
+sashrik,19,male,10000,12,10
+sana,32,female,10000,1,10
+hetvi,45,female,10000,2,10
+soham,24,male,10000,2,12
+heer,18,female,10000,3,10
+dev,22,male,100000,4,7
+kshitij,34,male,10000,5,8
+devam,21,male,100000,4,9
+rudra,21,male,100000,5,7

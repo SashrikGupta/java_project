@@ -1,0 +1,16 @@
+import networkx as nx
+import matplotlib.pyplot as plt
+
+# Given edge list
+edges =[[4,2],[8,2],[1,7],[4,6],[6,8],[7,8],[2,5],[4,1],[6,0],[0,5]]
+
+# Create a graph
+G = nx.Graph()
+
+# Add edges to the graph
+G.add_edges_from(edges)
+
+# Draw the graph
+pos = nx.spring_layout(G)  # Set the layout for better visualization
+nx.draw(G, pos, with_labels=True, font_weight='bold', node_size=700, node_color='skyblue', font_size=8)
+plt.show()

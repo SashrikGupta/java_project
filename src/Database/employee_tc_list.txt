@@ -1,0 +1,8 @@
+sashrik,19,male,10000,jodhpur,10
+samay,19,male,10000,jodhpur,10
+rahul,19,male,10000,jodhpur,10
+ashwin,19,male,10000,jodhpur,10
+mayank,19,male,10000,jodhpur,10
+manish,19,male,10000,jodhpur,10
+mohak,19,male,10000,jodhpur,10
+keyur,80,male,0,itawa,24

@@ -1,0 +1,9 @@
+Rushi,19,male,10000,12,10
+saloni,32,female,10000,1,10
+diya,45,female,10000,2,10
+vyom,24,male,10000,2,12
+pooja,18,female,10000,3,10
+aagam,22,male,100000,4,7
+ravi,34,male,10000,5,8
+preet,21,male,100000,4,9
+vansh,21,male,100000,5,7
